@@ -3,7 +3,7 @@ import {getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, sig
 import {getFirestore, addDoc, collection} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDb1DQXVgUc1cnAr11XftQexM249KFhEz4",
+  apiKey: "AIzaSyDb1DQXVgUc1cnAr11XftQexM249KFhEz4", //ik you can access the database via this but it's filled with crap dont waste ur time....ty
   authDomain: "netflix-4e13f.firebaseapp.com",
   projectId: "netflix-4e13f",
   storageBucket: "netflix-4e13f.firebasestorage.app",
